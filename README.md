@@ -76,7 +76,7 @@ If you make improvements or fixes, contributions are always welcome but not requ
 ## 📬 Contact
 
 Developed by **Metin Amedi**  
-Email: [Metinmeki99@example.com]
+Email: [Metinmeki99@gmail.com]
 
 ---
 
