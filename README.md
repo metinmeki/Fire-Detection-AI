@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 **Fire Detection AI** is a real-time fire detection system leveraging the power of the **YOLO (You Only Look Once)** algorithm. It analyzes video streams or images to detect fire quickly and accurately, enabling timely alerts to help prevent fire-related disasters.
 
